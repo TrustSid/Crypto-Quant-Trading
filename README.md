@@ -29,7 +29,6 @@ eth-lumia-lag-trading-bot/
 │   └── lag_screener_6m.py
     └── lag_screener_results.xlsx                
 ├── README.md                       # This file
-├── requirements.txt                # Required Python packages
 
 ```
 
