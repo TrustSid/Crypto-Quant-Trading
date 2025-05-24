@@ -96,9 +96,9 @@ This project is based on a 6-month anchor-target screener built in Jupyter. ETH 
 
 Results showed:
 
-* Returns above 90%
-* Win rate above 57%
-* Sharpe Ratio > 2.8
+* 📈 Returns above 90%
+* 🎯 Win rate above 57%
+* 📊 Sharpe Ratio > 2.8
 
 ---
 
