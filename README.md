@@ -25,10 +25,11 @@ eth-lumia-lag-trading-bot/
 │   └── strategy.py                 # Signal generator (BUY/SELL/HOLD)
 ├── notebooks/
 │   └── anchor_target_analysis.ipynb # Correlation screener for anchor-target pairs
-├── data/
-│   └── correlation_results.xlsx    # Screener outputs (ETH correlation matrix, etc.)
 ├── logs/
-│   └── .gitignore                  # Prevents logs from being committed
+│   └── .gitignore
+├── screener/
+│   └── lag_screener_6m.py
+    └── lag_screener_results.xlsx                
 ├── LICENSE                         # MIT license
 ├── README.md                       # This file
 ├── requirements.txt                # Required Python packages
