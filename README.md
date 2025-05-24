@@ -111,4 +111,4 @@ MIT License. You are free to use, modify, and distribute this code with attribut
 
 ## 🙋‍♂️ Author
 
-Built by \[Your Name] as part of a personal exploration into quantitative lag trading strategies. Connect with me on [LinkedIn](https://linkedin.com/in/your-profile) or check out more projects on [GitHub](https://github.com/your-handle).
+Built by Krishna Siddharth Suresh as part of a personal exploration into quantitative lag trading strategies. Connect with me on [LinkedIn](https://www.linkedin.com/in/krishna-siddharth-suresh-5150b2112/) or check out more projects on [GitHub](https://github.com/TrustSid).
