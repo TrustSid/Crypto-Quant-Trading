@@ -99,7 +99,12 @@ Results showed:
 * Returns above 90%
 * Win rate above 57%
 * Sharpe Ratio > 2.8
-  
+
+---
+
+## 🔒 Licensing
+This project is protected under a no-license model.  
+You may view the code, but reuse, redistribution, or commercial application of this codebase is **strictly prohibited** without written permission from the author.
 
 ---
 
